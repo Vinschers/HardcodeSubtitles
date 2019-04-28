@@ -1,5 +1,5 @@
 # HardcodeSubtitles
-An simple app that embed subtitles from your mkv video into mp4.
+A simple app that embed subtitles from your mkv video into mp4.
 
 ## Requirements
 To make HardcodeSubtitles work properly, you will need to install HandBrakeCLI, which can be found here: https://handbrake.fr/downloads2.php
